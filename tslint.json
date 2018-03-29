@@ -1,0 +1,24 @@
+{
+    "defaultSeverity": "warning",    
+    "jsRules": {},
+    "rules": {
+        "only-arrow-functions": true,
+        // "typedef": true,
+        "no-duplicate-super": true,
+        "no-duplicate-imports": true,
+        "no-unused-variable": true,
+        "no-duplicate-variable": true,
+        "no-empty": true,
+        "deprecation": true,
+        "eofline": true,
+        "indent": [true, "tabs", 4],
+        "prefer-const": true,
+        "align": true,
+        "arrow-return-shorthand": true,
+        "no-irregular-whitespace": true,
+        "no-consecutive-blank-lines": [true, 2],
+        "quotemark": [true, "double"],
+        "semicolon": [true, "always"],
+    },
+    "rulesDirectory": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "https-helper",
+  "version": "1.0.0",
+  "description": "A small HTTP(s) helper library, created for tutorial purposes. Hope it helps!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rimihaeg/https-ts-tutorial"
+  },
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^9.6.1",
+    "ava": "^0.25.0",
+    "typescript": "^2.8.1"
+  },
+  "scripts": {
+    "test": "ava ./lib/test/**",
+    "tsc": "tsc",
+    "tsc:watch": "tsc --watch"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "stream",
+    "json"
+  ],
+  "author": "rimihaeg",
+  "license": "MIT"
+}

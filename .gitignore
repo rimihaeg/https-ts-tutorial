@@ -1,0 +1,6 @@
+node_modules/
+lib/
+typings/
+
+Dockerfile
+docker-compose.yml
